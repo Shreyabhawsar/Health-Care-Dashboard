@@ -130,3 +130,7 @@ Gyms and fitness centers can use these insights to:
 Improve training programs
 Recommend suitable workout plans
 Promote diet and lifestyle improvement
+
+ScreenShorts /Demo 
+Show what the Dashboard looks like - 
+https://github.com/Shreyabhawsar/Health-Care-Dashboard/blob/main/Front%20Page%20Overview.png
